@@ -1,0 +1,4 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The satage area is a bunch of changes which has a mean. There are many changes in the working directory.
+
