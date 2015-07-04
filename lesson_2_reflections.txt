@@ -2,3 +2,14 @@ How is the staging area different from the working directory and the repository?
 
 The satage area is a bunch of changes which has a mean. There are many changes in the working directory.
 
+
+How do the diagrams help you visualize the branch structure?
+
+That let me know what branchesa are reachable.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pro: we can control branches perfectly.
+cons: it's complicated.
+
+
